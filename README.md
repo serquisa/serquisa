@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey👋😄</h1>
+<h1 align="center">Hey👋</h1>
 
 ###
 
