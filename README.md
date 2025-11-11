@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sergio from México<br><br>- 🖥️ I’m working as a software deveplover<br>- 📚 I'm currently studying computer engineering at the Universidad Nacional Autónoma de México en la Facultad de Ingenieria.<br>- ⚡ In my free time I like to learn new technologies and do new projects..</p>
+<p align="left">I'm Sergio from México<br><br>- 🖥️ I’m working as a software deveplover :)<br>- 📚 I'm currently studying computer engineering at the Universidad Nacional Autónoma de México en la Facultad de Ingenieria.<br>- ⚡ In my free time I like to learn new technologies and do new projects..</p>
 
 ###
 
